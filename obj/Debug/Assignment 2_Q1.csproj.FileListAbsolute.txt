@@ -1,0 +1,12 @@
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\bin\Debug\Assignment 2_Q1.exe.config
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\bin\Debug\Assignment 2_Q1.exe
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\bin\Debug\Assignment 2_Q1.pdb
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment 2_Q1.csprojAssemblyReference.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment_2_Q1.cricketForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment_2_Q1.Properties.Resources.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment 2_Q1.csproj.GenerateResource.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment 2_Q1.csproj.CoreCompileInputs.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment 2_Q1.exe
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment 2_Q1.pdb
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment_2_Q1.Cricket_Game.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 2_Q1\obj\Debug\Assignment_2_Q1.Innings_Information.resources
